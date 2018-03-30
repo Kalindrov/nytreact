@@ -1,0 +1,29 @@
+.topic {
+    color: blue;
+    margin-bottom: 1rem;
+}
+
+.syear {
+    color: blue;
+    margin-bottom: 1rem;
+}
+
+.eyear {
+    color: blue;
+    margin-bottom: 1rem;
+}
+
+.searchScreen {
+    margin-top: 1%;
+    border: 2px solid black;
+    background: linear-gradient(-90deg, black 0%, white 50%, black 100%);
+    text-align: right;
+}
+
+.search {
+    float: left;
+    margin-top: 4.8rem;
+    height: 5rem;
+    width: 10rem;
+    font-size: 1.8rem;
+}

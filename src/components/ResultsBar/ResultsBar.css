@@ -1,0 +1,28 @@
+.post {
+    color: lightgreen;
+    background: green;
+    margin: 0.25rem;
+}
+
+.entry {
+    color: lightgreen;
+    background: green;
+    margin: 0.25rem;
+}
+
+.summary {
+    color: lightgreen;
+    background: green;
+    margin: 0.25rem;
+}
+
+.resultsScreen {
+    margin-top: 1%;
+    border: 2px solid black;
+    background: linear-gradient(-90deg, black 0%, white 50%, black 100%);
+    text-align: right;
+}
+
+.saved {
+    margin-left: 3rem;
+}
